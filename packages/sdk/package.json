@@ -1,0 +1,12 @@
+{
+  "name": "@spectra/sdk",
+  "version": "1.0.0",
+  "description": "Developer telemetry and verification SDK for autonomous AI agents on 0G",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["0g", "zero-g", "ai-agents", "observability", "erc7857", "telemetry"],
+  "license": "MIT"
+}
