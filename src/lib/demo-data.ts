@@ -229,9 +229,8 @@ export const DEMO_MEMORY_BLOCKS: Record<string, AgentMemoryBlock[]> = {
       sizeBytes: 1048576,
       leafIndex: 0,
       merkleProof: [
-        "0x1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef",
-        "0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
-        "0x567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234",
+        "0x87b6a5c4d3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c0d9e8f7a6",
+        "0x1c8444f4b8ff4d6e60b7346fc06c23916b3d5621bbc2db6365130c111e3ff804",
       ],
       timestamp: "2026-08-23T14:05:00Z",
       verified: true,
@@ -248,8 +247,7 @@ export const DEMO_MEMORY_BLOCKS: Record<string, AgentMemoryBlock[]> = {
       leafIndex: 1,
       merkleProof: [
         "0x98a7b6c5d4e3f2a10b9c8d7e6f5a4b3c2d1e0f9a8b7c6d5e4f3a2b1c0d9e8f7a",
-        "0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890",
-        "0x567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234",
+        "0x1c8444f4b8ff4d6e60b7346fc06c23916b3d5621bbc2db6365130c111e3ff804",
       ],
       timestamp: "2026-08-23T12:00:00Z",
       verified: true,
@@ -265,8 +263,8 @@ export const DEMO_MEMORY_BLOCKS: Record<string, AgentMemoryBlock[]> = {
       sizeBytes: 16384,
       leafIndex: 2,
       merkleProof: [
-        "0x4567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef123",
-        "0x34567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef12",
+        "0x3429a9c019b0b78f121b7030f3ef7cdcc25dcda706391058164365af7c3d2221",
+        "0x979b7cd0cc1e0af9b602486a34872a6af90af768f2d95a182208ed395ccc17e2",
       ],
       timestamp: "2026-08-23T14:14:00Z",
       verified: true,
