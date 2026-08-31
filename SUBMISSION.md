@@ -25,7 +25,8 @@ This document is formatted item-by-item to match the official **0G Bridge Builda
 
 ## 2. Code Repository
 
-- **Repository URL**: `https://github.com/<your-username>/spectra` *(Public)*
+- **Repository URL**: `https://github.com/jacenta1/Spectra` *(Public)*
+- **Live Demo**: [https://spectra-0g.vercel.app/](https://spectra-0g.vercel.app/)
 - **Commit History**: 
   - `feat: initial Spectra Wave 1 MVP release for 0G buildathon`
   - `feat: complete multi-wave platform (storage memory inspector, verify engine, anomaly scanner, swarms, sdk)`
@@ -94,8 +95,8 @@ This document is formatted item-by-item to match the official **0G Bridge Builda
 - **0G Compute Router**: OpenAI-compatible router format for behavioral anomaly analysis and TEE signatures.
 - **Local Reproduction**:
   ```bash
-  git clone https://github.com/<your-username>/spectra.git
-  cd spectra
+  git clone https://github.com/jacenta1/Spectra.git
+  cd Spectra
   npm install
   npm run dev
   # Open http://localhost:3000
@@ -121,7 +122,7 @@ Features:
 • Interactive Agent Sandbox & Simulator (/playground)
 
 Live Demo: https://spectra-0g.vercel.app
-Code: https://github.com/<your-username>/spectra
+Code: https://github.com/jacenta1/Spectra
 
 #0GBridge #BuildOn0G @0G_labs @0G_Builders @AKINDO_io
 ```

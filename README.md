@@ -1,5 +1,8 @@
 # Spectra | Agent Observability, Memory & Verification Layer for 0G
 
+**Live Demo**: [https://spectra-0g.vercel.app/](https://spectra-0g.vercel.app/)  
+**GitHub Repository**: [https://github.com/jacenta1/Spectra](https://github.com/jacenta1/Spectra)
+
 Spectra is the developer-first observability, decentralized memory inspection, and cryptographic verification platform built natively for autonomous AI agents on the **0G Network** (0G Chain, 0G Storage, 0G Compute, and ERC-7857 Agentic IDs).
 
 ```
@@ -44,8 +47,8 @@ Spectra is the developer-first observability, decentralized memory inspection, a
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/spectra.git
-cd spectra
+git clone https://github.com/jacenta1/Spectra.git
+cd Spectra
 
 # Install dependencies
 npm install
